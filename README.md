@@ -19,16 +19,21 @@ This project tracks and visualizes **daily product rank, discount %, and stock s
 3. **Top Brands Vary by Platform** — Lakme, Minimalist, Bare Anatomy dominate
 
 ## 📁 Repo Structure
+
 /Scraper/ → Python scraping and cleaning code
+
 /data/ → Sample scraped data
+
 /visuals/ → Tableau dashboard snapshots
+
 /tableau_dashboard/ → Dashboard PDF or .twbx file
+
 README.md → This file
 
 
 ## 🖥️ Dashboard Snapshot
 
-![Dashboard](visuals/dashboard_screenshot1.png)
+([visuals/dashboard_screenshot1.png](https://github.com/RajaduraiThamizhmani/digital-shelf-visibility-skincare/blob/main/visuals/Screenshot%20(93).png))
 
 ## 🚀 How to Run
 1. Install dependencies: `pip install -r requirements.txt`
